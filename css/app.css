@@ -32,24 +32,24 @@
   height: 500px;
   margin: 10px;
   border-radius: 55px;
-  background: url(/img/img-1.jpg);
+  background: url(../img/img-1.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
   transition: width 0.5s;
 }
 .img:nth-child(2) {
-  background: url(/img/img-2.jpg);
+  background: url(../img/img-2.jpg);
   background-size: cover;
   background-position: center;
 }
 .img:nth-child(3) {
-  background: url(/img/img-3.jpg);
+  background: url(../img/img-3.jpg);
   background-size: cover;
   background-position: center;
 }
 .img:nth-child(4) {
-  background: url(/img/img-4.jpg);
+  background: url(../img/img-4.jpg);
   background-color: aqua;
   background-size: cover;
   background-position: center;
